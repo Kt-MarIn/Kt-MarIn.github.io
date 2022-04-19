@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Dark Souls Magic</title>
+      <link href="/2022/04/17/dark-souls-magic/"/>
+      <url>/2022/04/17/dark-souls-magic/</url>
+      
+        <content type="html"><![CDATA[<h3 id="必要收集的咒术奇迹法术"><a href="#必要收集的咒术奇迹法术" class="headerlink" title="必要收集的咒术奇迹法术"></a>必要收集的咒术奇迹法术</h3><p>阳光滋润，金石，内潜，隐身（ 黄金卷轴），温床，风暴落泪，屏障，大幽邃，沸腾混沌</p><h4 id="血量1000"><a href="#血量1000" class="headerlink" title="血量1000"></a>血量1000</h4><h4 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h4><p>鞭子，龙铃，费铃，白发（熏烟湖那个地下岩浆池），<br>两红泪剑，血癫狂，宝箱头，太阳直（洛城大龙脚下的宝箱怪），<br>结晶杖，宫廷杖（罪业之都洋葱旁边），树枝（冷冽谷的隐藏墙后面的大胖子），伊扎里斯（熏烟湖隐藏墙）</p><h4 id="戒指"><a href="#戒指" class="headerlink" title="戒指"></a>戒指</h4><p>摩恩（活祭之路楼下），太阳长男（沙立万门口），雷怪手（古龙道门口左边），红泪（猎龙铠甲左转升降梯边）<br>稚嫩龙（买老师的东西），狂吼龙（地牢窗栏），法怪手（沙立万门口隐藏门）<br>大沼（杀森林螃蟹）魔女们的戒指（往熏烟湖走的路上）火怪手（不死聚落里）<br>暗怪手（地牢巨人洞里的宝箱怪）<br>覆眼面具（黑龙路上旋转楼梯的入侵），幽暗头（法兰第二个篝火左转的螃蟹）</p><h4 id="所有咒术书"><a href="#所有咒术书" class="headerlink" title="所有咒术书"></a>所有咒术书</h4><p>大沼的咒术书（地点：生祭之路）获得：在沼泽中央的大螃蟹附近的尸体<br>卡萨斯的咒术书（地点：卡萨斯的地下墓）获得：从一开始进去的桥中间左边跳下去，有个发光点<br>伊扎里斯的咒术书（地点：烟熏湖）获得：在恶魔遗迹内的簧火附近<br>克拉娜的咒术书（地点：烟熏湖）获得：在有大老鼠的通道往左的幻影门中<br>守墓人的咒术书（地点：卡萨斯的地下墓）获得：在 BOSS 霸王沃尼尔所在的区域<br>后两个需要魔女：钥匙在关洋葱的楼上两个狱卒边</p><h4 id="所有卷轴书"><a href="#所有卷轴书" class="headerlink" title="所有卷轴书"></a>所有卷轴书</h4><p>古老卷轴：从篝火“要塞遗迹”出发，往三盆火的大门方向，沿着沼泽左侧一直走，路过白桦树和大螃蟹后，在一堆蘑菇附近的尸体上。<br>黄金卷轴：从篝火“要塞遗迹”出发，往三盆火的大门方向，带沿着右边墙壁走，看到一圈大眼蛤蟆的正前方的一个洞穴的尸体上。<br>罗根卷轴：罪业之都，救洋葱前，剧毒沼泽楼顶的敌对宫廷法师怪击杀后掉落。<br>结晶卷轴：大书库，进门不断骚扰你并跑路的结晶长老，击杀后即可拿到。</p><h4 id="BUFF时间"><a href="#BUFF时间" class="headerlink" title="BUFF时间"></a>BUFF时间</h4><p>太阳直：45s<br>内潜：30s<br>金石：60s<br>鞭子：120s</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> 总结 </tag>
+            
+            <tag> 黑暗之魂3 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>First</title>
+      <link href="/2022/04/16/first/"/>
+      <url>/2022/04/16/first/</url>
+      
+        <content type="html"><![CDATA[<h3 id="感受"><a href="#感受" class="headerlink" title="感受"></a>感受</h3><p>第一次尝试通过hexo搭建一个自己的博客，不能说是完全照抄，也能说是ctrl+c/v的老手了</p><p>用到了许许多多大佬的源代码，初期配置nodejs环境属实是折磨</p><p>这篇文章如果以后还需要配置环境的话对我有很大帮助</p><pre class="line-numbers language-none"><code class="language-none">https:&#x2F;&#x2F;blog.csdn.net&#x2F;qq_48485223&#x2F;article&#x2F;details&#x2F;122709354<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>hexo环境的话，官网的指导还是很到位的</p><p>csdn上也找到了很多大佬的主题更改教程，乐(‾◡◝)</p><h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>1.cmd打开位置需要在blog文件夹内</p><p>2.修改title，subtitle，名字以及语言之后刷新没用，需要重新启动</p><p>3.头像最好搞成正方形:)</p><p>4.相册里照片是默认填充，纵横比需要自己设置</p><h3 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h3><p>很多东西都没有学习，markdown接下来需要初步了解</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/04/16/hello-world/"/>
+      <url>/2022/04/16/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
